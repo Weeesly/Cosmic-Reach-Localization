@@ -29,6 +29,7 @@
 
 == Norwegian Localization ==
 * MarAlNor
+* Sebbog
 
 == Russian Localization ==
 * Svuvi
@@ -47,3 +48,4 @@
 
 == Dutch Localization ==
 * Lelebees
+* Luke-Kr
